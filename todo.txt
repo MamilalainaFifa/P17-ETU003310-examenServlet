@@ -1,0 +1,34 @@
+intruction{
+    classe normal{set et get}
+    classe nom de la classe +DAO.java{crud}
+    DoGet+nomedelaclasse.java{doGet}
+    DoPost+nomedelaclasse.java{doPost}
+}
+
+partie 1{
+    log in et insription avec une base en mysql(user(id, nom, password))
+    une page de login et inscription
+    inscription => login une fois une inscription faite
+    connexion => home une fois une connexion faite en  affichant les infos d l'user en utilisant HttpSession
+}
+
+Partie 2{    
+
+    dashboard(liste des dépenses)
+    libélé somme(B) reste(A-B)
+
+    protégé par le login{    
+        ajouter ligne de crédit
+        libélé 
+        montant(A)
+
+        ajouter une dépense
+        listedéroulante des crédits
+        montant (B)
+    }
+
+}
+
+
+seul rectification: on vas directement au dashboard au début(pas besoin de login)
+dans le dashboard il y a la liste mais aussi 1 lien admin qui mène vers le loggin d'admin avant de pouvoir avoir accès aux liens 

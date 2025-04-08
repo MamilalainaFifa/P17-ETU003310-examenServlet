@@ -1,0 +1,20 @@
+sql{
+    base de donnée
+}
+
+src/{
+    package des .java + webapp
+}
+
+web{
+    .jsp
+    .html
+}
+
+src/webapp/WEB-INF/web.xml{
+    modifier
+}
+
+deplpy.bat {
+    modier le nom
+}
